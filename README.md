@@ -1,21 +1,20 @@
-# Trillians Modern Website Demo
+# Trillians Rock Homepage Demo
 
-A clean React/Vite version of the original ChatGPT Trillians demo component, adapted to run without shadcn/ui, Tailwind, lucide-react, framer-motion or remote merch image dependencies.
+A polished React/Vite homepage concept for Trillians Rockbar. The demo presents a dark concert-style landing page with bold calls to action for gigs, tickets, table drinks, merch, comedy nights, The Wrong Channel and performer applications.
 
-The site covers gig discovery, ticket calls to action, drinks ordering, merch, Cheer Up Goth Comedy, The Wrong Channel, performer applications and a contact form mockup.
-
-## Local Development
+## Run Locally
 
 ```bash
-npm install
-npm run dev
+npm.cmd install
+npm.cmd run dev
 ```
 
-## Production Build
+Open the local Vite URL shown in the terminal.
+
+## Build
 
 ```bash
-npm run build
-npm run preview
+npm.cmd run build
 ```
 
 ## Docker
@@ -29,13 +28,4 @@ Then open `http://localhost:8080`.
 
 ## Images
 
-The site ships with local SVG placeholders under `public/images`:
-
-- `public/images/logo/trillians-logo-placeholder.svg`
-- `public/images/hero/trillians-stage-placeholder.svg`
-- `public/images/drinks/table-ordering-placeholder.svg`
-- `public/images/merch/merch-shelf-placeholder.svg`
-- `public/images/merch/*-tee-placeholder.svg`
-- `public/images/shows/show-placeholder.svg`
-
-Replace those files or update the CSS URLs when production or locally generated imagery is available.
+The Trillians logo is served from `public/images/trillians-logo.jpg`. Supporting placeholder artwork lives under `public/images` and can be replaced with production concert, drinks, merch and show assets.
