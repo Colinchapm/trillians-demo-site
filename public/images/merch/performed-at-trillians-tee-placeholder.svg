@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="I performed at Trillians tee placeholder">
+  <rect width="900" height="1100" fill="#09090b"/>
+  <path d="M285 170c45-82 285-82 330 0l120 70-72 150-76-38v565H313V352l-76 38-72-150z" fill="#050507" stroke="#27272a" stroke-width="10"/>
+  <text x="450" y="455" fill="#f87171" font-family="Arial, sans-serif" font-size="38" font-weight="900" text-anchor="middle">I PERFORMED AT</text>
+  <text x="450" y="540" fill="#f5f5f5" font-family="Georgia, serif" font-size="76" font-weight="900" text-anchor="middle">Trillians</text>
+  <rect x="330" y="590" width="240" height="10" rx="5" fill="#dc2626"/>
+</svg>
