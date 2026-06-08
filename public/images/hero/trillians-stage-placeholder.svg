@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Placeholder stage image">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b1116"/>
+      <stop offset="0.55" stop-color="#11151b"/>
+      <stop offset="1" stop-color="#4a3510"/>
+    </linearGradient>
+    <radialGradient id="light" cx="50%" cy="20%" r="55%">
+      <stop offset="0" stop-color="#f2c94c" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#f2c94c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="url(#light)"/>
+  <path d="M120 690h960v80H120z" fill="#08090d" opacity="0.85"/>
+  <path d="M230 700 470 260M970 700 730 260" stroke="#f7efe8" stroke-width="12" opacity="0.28"/>
+  <circle cx="420" cy="300" r="54" fill="#c1272d" opacity="0.86"/>
+  <circle cx="600" cy="250" r="70" fill="#f2c94c" opacity="0.75"/>
+  <circle cx="780" cy="300" r="54" fill="#c1272d" opacity="0.86"/>
+  <text x="600" y="810" fill="#f7efe8" font-family="Arial, sans-serif" font-size="54" font-weight="800" text-anchor="middle">TRILLIANS STAGE</text>
+</svg>

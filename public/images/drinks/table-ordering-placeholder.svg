@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="Placeholder drinks ordering image">
+  <rect width="1000" height="760" fill="#132229"/>
+  <path d="M0 0h1000v760H0z" fill="#271219" opacity="0.52"/>
+  <rect x="330" y="110" width="340" height="540" rx="42" fill="#090b10" stroke="#f7efe8" stroke-opacity="0.22" stroke-width="8"/>
+  <rect x="380" y="190" width="240" height="54" rx="12" fill="#f2c94c"/>
+  <rect x="380" y="290" width="240" height="38" rx="10" fill="#f7efe8" opacity="0.78"/>
+  <rect x="380" y="360" width="240" height="38" rx="10" fill="#f7efe8" opacity="0.58"/>
+  <rect x="380" y="500" width="240" height="68" rx="14" fill="#c1272d"/>
+  <text x="500" y="705" fill="#f7efe8" font-family="Arial, sans-serif" font-size="42" font-weight="800" text-anchor="middle">TABLE ORDERING</text>
+</svg>
